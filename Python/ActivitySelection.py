@@ -1,3 +1,5 @@
+#  for sorted input 
+
 def ActivitySelection(a,b):
     selection = [0]
     x = 0
