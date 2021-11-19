@@ -2,5 +2,5 @@
 
 To clone this repository
 ```
-hello
+git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 ```
