@@ -56,5 +56,5 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 <ol>BFS- O(V+E)</ol>
 <ol>DFS- O(V+E)</ol>
 <ol>Bellman ford- O(VE)</ol>
-<ol>Dijkstra O(E log v)</ol>
+<ol>Dijkstra- O(E log v)</ol>
 
