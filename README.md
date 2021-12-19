@@ -4,6 +4,22 @@ To clone this repository
 ```
 git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 ```
+
+
+```
+Dynamic programming
+1.Choin choose
+2.0-1 Knapsack
+3.Rod Cutting
+4.LCS
+Greedy Algorithm
+1.Fractional Knapsack Problem
+2.Activity Selection
+3.Huffman code
+4.Prim's
+5.Kruskal
+6.Dijkstra
+```
 <h1>O(n^2)</h1>
 <li>Bubble sort<//li>
 <li>Selection sort<//li>
