@@ -1,3 +1,6 @@
+#for unsorted input
+
+
 NoOfActivity = int(input("How many activity: "))
 print("Enter start time and finished time")
 Array = []
