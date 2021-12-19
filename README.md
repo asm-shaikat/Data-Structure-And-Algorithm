@@ -16,4 +16,3 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 <li>Merge sort<//li>
 <li>Heap sort<//li>
 <li>Tim sort<//li>
-<li>Quick sort<//li>
