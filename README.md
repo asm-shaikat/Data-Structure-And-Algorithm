@@ -33,3 +33,8 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 
 <h1>O(n^3)</h1>
 <li>Matrix multiplication<//li>
+
+<h1>Graph</h1>
+<ol>BFS- O(V+E)</ol>
+<ol>DFS- O(V+E)</ol>
+
