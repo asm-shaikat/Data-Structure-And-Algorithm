@@ -16,3 +16,20 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 <li>Merge sort<//li>
 <li>Heap sort<//li>
 <li>Tim sort<//li>
+
+
+<h1>O(n)</h1>
+<li>Linear search<//li>
+
+
+
+<h1>O(log n)</h1>
+<li>Binary search<//li>
+
+
+<h1>O(nk)</h1>
+<li>Radix sort<//li>
+
+
+<h1>O(n^3)</h1>
+<li>Matrix multiplication<//li>
