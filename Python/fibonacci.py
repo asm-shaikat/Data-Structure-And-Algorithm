@@ -9,3 +9,4 @@ x=int(input("How many numbers:"))
 fibonacci(x)
 for i in range(x):
     print(fibonacci(i))
+    
