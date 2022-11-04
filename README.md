@@ -7,6 +7,20 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 
 
 ```
+       Data Structure
+       
+1.Array
+2.Binary tree
+3.Graph
+4.Linked List
+5.Binary search tree
+6.Stack
+7.Queue
+8.Heap
+9.Hashing
+10.Graph
+
+
        Dynamic programming
 1.Choin choose
 2.0-1 Knapsack
