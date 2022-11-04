@@ -20,6 +20,7 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 9.Hashing
 10.Graph
        Algorithm
+       
  Searching: 
 1) Binary Search  
 2) Linear Search 
@@ -27,6 +28,7 @@ git clone https://github.com/Shaikat1952/Data-Structure-And-Algorithm.git
 4) Breadth First Search  
 5) Rabin-Karp Algorithm 
 6) Z Algorithm 
+
 Sorting: 
 1) Insertion Sort 
 2) Heap Sort 
