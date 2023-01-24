@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-bubbleSort(int Q[],int n){
+int bubbleSort(int Q[],int n){
   int i,j,temp;
   for(i=0;i<n;i++){
     for(j=0;j<n-i;j++){
