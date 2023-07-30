@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-import javax.swing.text.StyledEditorKit;
-
 public class InsertionSort {
     public static void main(String[] args) {
         System.out.println("Enter array size: ");
