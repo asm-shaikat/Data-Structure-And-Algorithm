@@ -17,15 +17,16 @@ public class BubbleSort {
     public static void sub(int[] ary) {
         for (int i = 0; i < ary.length; i++) {
             for (int j = 0; j < ary.length - i - 1; j++) {
-                if (ary[j] < ary[j + 1]) {
+                if (ary[j] > ary[j + 1]) {
                     int temp = ary[j + 1];
                     ary[j + 1] = ary[j];
                     ary[j] = temp;
                 }
             }
         }
+        System.out.println("Sorted array");
         for (int k = 0; k < ary.length; k++) {
-            System.out.println(ary[k] + " ");
+            System.out.print(ary[k] + " ");
         }
     }
 
