@@ -12,12 +12,14 @@ void InsertionSort(vector<int> &v){
         }
         v[j+1] = chk;
 
+        for (auto i : v)
+        {
+            cout << i << " ";
+        }
+        cout << endl;
     }
-    cout<<"After insertion sort"<<endl;
-    for(auto i: v){
-        cout<<i<<" ";
-    }
-    cout<<endl;
+    // cout<<"After insertion sort"<<endl;
+    
 
 }
 
@@ -25,7 +27,7 @@ void InsertionSort(vector<int> &v){
 int main(){
     vector<int> v;
     int n;
-    cout<<"How many digits ? ";
+    // cout<<"How many digits ? ";
     cin>>n;
     for(int i=0; i<n; i++){
         int x;
